@@ -1,5 +1,1 @@
-.main {
-	background:#ccc;
-	height:300px;
-	width:300px;
-}
+input:required:valid { border-color: green; }
